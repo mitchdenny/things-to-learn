@@ -9,7 +9,7 @@ Here are some things that you need to be across when doing native Android develo
 - Activities;
 - Intents;
 - PendingIntents;
-  - (SDK Documentation)[http://developer.android.com/reference/android/app/PendingIntent.html]
+  - [SDK Documentation](http://developer.android.com/reference/android/app/PendingIntent.html)
 - Layouts;
 - Menus;
 - Fragments;
