@@ -15,3 +15,11 @@ Here are some things that you need to be across when doing native Android develo
 - Fragments;
 - [Gradle](http://www.gradle.com); is a build automation tool used in [Android Studio](https://developer.android.com/sdk/installing/studio.html) (among other things).
 - [Groovy](http://groovy.codehaus.org/); is a dynamic language that runs on top of the JVM and us used by Gradle.
+
+##iOS
+
+Here are some things that you need to be across when doing native iOS development.
+
+- Objective-C;
+- Views and Controllers;
+- Common X-code Macros;
