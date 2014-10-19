@@ -6,6 +6,7 @@ This is a list of things (in software engineering) that I think are worth learni
 
 Here are some things that you need to be across when doing native Android development.
 
+- Contexts;
 - Activities;
 - Intents;
 - PendingIntents;
